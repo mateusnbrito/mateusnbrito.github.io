@@ -1,0 +1,21 @@
+jwt:
+  private:
+    key: classpath:app.key
+  public:
+    key: classpath:app.pub
+
+server:
+  port: 2412
+
+spring:
+  application:
+    name: site
+  datasource:
+    url: jdbc:postgresql://localhost/fareieumesmo
+    username: postgres
+    password: 123456
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      format_sql: true
