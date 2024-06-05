@@ -58,10 +58,6 @@ body main .training-item .header {
   color: #FFFFFF;
 }
 
-body main .training-item .body {
-  padding: 1rem;
-}
-
 body main .training-item .body .training-list .item {
   color: #2F6A87;
 }
@@ -76,7 +72,9 @@ body main .training-item .body .training-list .item .subtitle {
 }
 
 body main .training-item .body .training-list .item .image {
-  width: 100%;
+  display: block;
+  width: 90%;
+  margin: 0 auto;
 }
 
 body main .training-item .body .training-list .item .info {
