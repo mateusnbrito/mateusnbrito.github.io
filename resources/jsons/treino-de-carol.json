@@ -15,21 +15,57 @@
         "rest": "40"
       },
       {
-        "title": "Flexão de Braço",
-        "subtitle": "com apoio",
-        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "title": "Supino Inclinado",
+        "subtitle": "com Halteres",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/supino-inclinado-com-halteres.gif",
+        "series": "4",
+        "repetitions": "15",
+        "load": "5",
+        "rest": "45"
+      },
+      {
+        "title": "Elevação Frontal",
+        "subtitle": "com Halteres",
+        "image": "https://www.hipertrofia.org/blog/wp-content/uploads/2023/11/dumbbell-front-raise.gif",
         "series": "3",
-        "repetitions": "10",
-        "load": "0",
-        "rest": "40"
+        "repetitions": "15",
+        "load": "3",
+        "rest": "45"
+      },
+      {
+        "title": "Puxada Fechada",
+        "subtitle": "com Barra Reta",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/costas-puxada-com-barra-no-pulley-1.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "3",
+        "rest": "45"
+      },
+      {
+        "title": "Remada Alta",
+        "subtitle": "na Polia Alta com Corda",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/ombros-remada-alta-no-cabo.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "15",
+        "rest": "45"
+      },
+      {
+        "title": "Remada Unilateral",
+        "subtitle": "com Halteres no Banco Inclinado",
+        "image": "https://static.wixstatic.com/media/2edbed_cf8feb6f79494833b887104bc358843d~mv2.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "15",
+        "rest": "45"
       }
     ],
     "cardio": [
       {
         "title": "Bicicleta",
         "subtitle": "Ergométrica",
-        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
-        "series": "10 níveis",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo6dl11jU-3BpBpuDHM4zMB-PEl1ihGPJxA&s",
+        "series": "0",
         "repetitions": "0",
         "load": "0",
         "rest": "0"
