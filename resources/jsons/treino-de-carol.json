@@ -71,5 +71,214 @@
         "rest": "0"
       }
     ]
+  },
+  {
+    "id": 1,
+    "title": "Treino B",
+    "subtitle": "Posterior e Glúteo",
+    "mobility": [
+      {
+        "title": "Alongamento",
+        "subtitle": "de Glúteos II",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "1",
+        "repetitions": "20",
+        "load": "0",
+        "rest": "0"
+      },
+      {
+        "title": "Alongamento",
+        "subtitle": "de Glúteos IV",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "1",
+        "repetitions": "20",
+        "load": "0",
+        "rest": "0"
+      }
+    ],
+    "exercises": [
+      {
+        "title": "Elevação Pélvica",
+        "subtitle": "",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "0",
+        "rest": "30"
+      },
+      {
+        "title": "Agachamento Sumo",
+        "subtitle": "com Kettlebell",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "4",
+        "repetitions": "15",
+        "load": "10",
+        "rest": "45"
+      },
+      {
+        "title": "Adução de Quadril",
+        "subtitle": "na Máquina",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "30",
+        "rest": "60"
+      },
+      {
+        "title": "Abdução de Quadril",
+        "subtitle": "na Máquina",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "25",
+        "rest": "60"
+      },
+      {
+        "title": "Cadeira Flexora",
+        "subtitle": "",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "15",
+        "rest": "45"
+      },
+      {
+        "title": "Panturrilha Sentado",
+        "subtitle": "na Máquina",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "30",
+        "load": "10",
+        "rest": "40"
+      }
+    ],
+    "cardio": []
+  },
+  {
+    "id": 2,
+    "title": "Treino C",
+    "subtitle": "Quadríceps, Peito, Tríceps e Ombros",
+    "mobility": [
+      {
+        "title": "Mobilidade",
+        "subtitle": "de Quadril II",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "1",
+        "repetitions": "20",
+        "load": "10",
+        "rest": "0"
+      },
+      {
+        "title": "Mobilidade",
+        "subtitle": "de Quadril IV",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "1",
+        "repetitions": "30",
+        "load": "0",
+        "rest": "0"
+      },
+      {
+        "title": "Mobilidade",
+        "subtitle": "de Tornozelo Semi Ajoelhado",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "1",
+        "repetitions": "10",
+        "load": "0",
+        "rest": "0"
+      },
+      {
+        "title": "Mobilidade",
+        "subtitle": "de Ombro VIII",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "1",
+        "repetitions": "20",
+        "load": "10",
+        "rest": "0"
+      }
+    ],
+    "exercises": [
+      {
+        "title": "Supino Máquina",
+        "subtitle": "com Pegada Pronada",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "14",
+        "rest": "45"
+      },
+      {
+        "title": "Crucifixo",
+        "subtitle": "na Máquina",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "15",
+        "rest": "45"
+      },
+      {
+        "title": "Desenvolvimento com Halteres",
+        "subtitle": "com Pegada Neutra",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "3",
+        "rest": "45"
+      },
+      {
+        "title": "Remada Alta",
+        "subtitle": "na Polia Baixa com Barra Reta",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "15",
+        "rest": "45"
+      },
+      {
+        "title": "Tríceps na Polia",
+        "subtitle": "com Barra Reta",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "4",
+        "repetitions": "12",
+        "load": "12",
+        "rest": "45"
+      },
+      {
+        "title": "Leg Press",
+        "subtitle": "Horizontal",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "4",
+        "repetitions": "15",
+        "load": "45",
+        "rest": "45"
+      },
+      {
+        "title": "Cadeira Extensora",
+        "subtitle": "",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "15",
+        "load": "20",
+        "rest": "45"
+      },
+      {
+        "title": "Agachamento Livre",
+        "subtitle": "",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "12",
+        "load": "0",
+        "rest": "45"
+      },
+      {
+        "title": "Sobe/Desce",
+        "subtitle": "no Banco",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "12",
+        "load": "0",
+        "rest": "45"
+      }
+    ],
+    "cardio": []
   }
 ]
