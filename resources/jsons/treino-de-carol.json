@@ -1,36 +1,39 @@
-{
-  "training-a": {
+[
+  {
+    "id": 0,
     "title": "Treino A",
     "subtitle": "Peito, Ombros e Costas",
-    "mobility": {
-      "mobility-item-0" : {
-        "title": "A",
-        "subtitle": "A",
-        "series": "A",
-        "repetitions": "A",
-        "load": "0",
-        "rest": "0"
-      }
-    },
-    "exercises": {
-      "exercises-item-0" : {
+    "mobility": [],
+    "exercises": [
+      {
         "title": "Flexão de Braço",
         "subtitle": "com apoio",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
         "series": "3",
         "repetitions": "10",
         "load": "0",
-        "rest": "0"
+        "rest": "40"
+      },
+      {
+        "title": "Flexão de Braço",
+        "subtitle": "com apoio",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
+        "series": "3",
+        "repetitions": "10",
+        "load": "0",
+        "rest": "40"
       }
-    },
-    "cardio": {
-      "cardio-item-0" : {
+    ],
+    "cardio": [
+      {
         "title": "Bicicleta",
         "subtitle": "Ergométrica",
+        "image": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/flexao-de-bracos.gif",
         "series": "10 níveis",
-        "repetitions": "Começar no nível 3 e aumentar 1 nível a cada 2 minutos",
-        "load": "20 minutos de pedalada",
+        "repetitions": "0",
+        "load": "0",
         "rest": "0"
       }
-    }
+    ]
   }
-}
+]

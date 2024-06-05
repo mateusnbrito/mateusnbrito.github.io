@@ -44,49 +44,20 @@ body main {
   justify-content: center;
 }
 
-body main .training-item {
+body main #list-of-trainings {
   width: 100%;
-  margin: 0rem 0rem 1rem 0rem;
 }
 
-body main .training-item .header {
+body main #list-of-trainings .list-item {
+  width: 100%;
+  margin: 0rem 0rem 0.5rem 0rem;
+}
+
+body main #list-of-trainings .list-item a {
+  width: 100%;
   padding: 1rem;
-  text-transform: uppercase;
-  font-size: 1.5rem;
-  font-weight: 900;
   background-color: #2F6A87;
+  font-size: 1.10rem;
+  font-weight: 900;
   color: #FFFFFF;
-}
-
-body main .training-item .body .training-list .item {
-  color: #2F6A87;
-}
-
-body main .training-item .body .training-list .item .title {
-  font-size: 1.5rem;
-  font-weight: 900;
-}
-
-body main .training-item .body .training-list .item .subtitle {
-  font-size: 1.25rem;
-}
-
-body main .training-item .body .training-list .item .image {
-  display: block;
-  width: 90%;
-  margin: 0 auto;
-}
-
-body main .training-item .body .training-list .item .info {
-  display: flex;
-}
-
-body main .training-item .body .training-list .item .info .value {
-  margin: 0rem 0.25rem 0rem 0rem;
-  font-size: 1.10rem;
-  font-weight: 900;
-}
-
-body main .training-item .body .training-list .item .info .key {
-  font-size: 1.10rem;
 }
