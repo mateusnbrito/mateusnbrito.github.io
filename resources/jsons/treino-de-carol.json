@@ -1,0 +1,36 @@
+{
+  "training-a": {
+    "title": "Treino A",
+    "subtitle": "Peito, Ombros e Costas",
+    "mobility": {
+      "mobility-item-0" : {
+        "title": "A",
+        "subtitle": "A",
+        "series": "A",
+        "repetitions": "A",
+        "load": "0",
+        "rest": "0"
+      }
+    },
+    "exercises": {
+      "exercises-item-0" : {
+        "title": "Flexão de Braço",
+        "subtitle": "com apoio",
+        "series": "3",
+        "repetitions": "10",
+        "load": "0",
+        "rest": "0"
+      }
+    },
+    "cardio": {
+      "cardio-item-0" : {
+        "title": "Bicicleta",
+        "subtitle": "Ergométrica",
+        "series": "10 níveis",
+        "repetitions": "Começar no nível 3 e aumentar 1 nível a cada 2 minutos",
+        "load": "20 minutos de pedalada",
+        "rest": "0"
+      }
+    }
+  }
+}
