@@ -6,8 +6,15 @@
   list-style: none;
 }
 
+a {
+  width: 100%;
+  display: block;
+  text-decoration: none;
+}
+
 html {
   width: 100%;
+  scroll-behavior: smooth;
 }
 
 body {
