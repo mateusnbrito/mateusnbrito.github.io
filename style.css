@@ -268,3 +268,11 @@ main .section-tecnologies .tecnologies-list .tecnologies-item {
     color: var(--blue-dark);
     font-style: italic;
 }
+
+footer {
+    padding: 2rem;
+}
+
+footer .contact {
+    margin: 0rem 0rem 1rem 0rem;
+}
