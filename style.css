@@ -84,7 +84,7 @@ main .section-experiences {
     background-color: var(--white);
 }
 
-main .section-experiences .title {
+main [class^="section-"] .title {
     width: 100%;
     padding: 1rem 2rem 1rem 2rem;
     color: var(--white);
@@ -118,6 +118,46 @@ main .section-experiences .experiences-list .experience-item #logo-uol {
 
 main .section-experiences .experiences-list .experience-item #logo-vxcase {
     height: 1.2rem;
+}
+
+main .section-education {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 0rem 0rem 0rem;
+    background-color: var(--white);
+}
+
+main [class^="section-"] .title {
+    width: 100%;
+    padding: 1rem 2rem 1rem 2rem;
+    color: var(--white);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    font-weight: 500;
+    background-color: var(--blue-light);
+}
+
+main .section-education .education-list {
+    width: 100%;
+    max-width: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 6rem 2rem 6rem;
+}
+
+main .section-education .education-list .education-item {
+    display: flex;
+}
+
+main .section-education .education-list .education-item #logo-ifba {
+    width: 5rem;
+}
+
+main .section-education .education-list .education-item #logo-unopar {
+    width: 5rem;
 }
 
 .box-shadow {
