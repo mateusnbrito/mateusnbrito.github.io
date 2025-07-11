@@ -128,17 +128,6 @@ main .section-education {
     background-color: var(--white);
 }
 
-main [class^="section-"] .title {
-    width: 100%;
-    padding: 1rem 2rem 1rem 2rem;
-    color: var(--white);
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 1.1rem;
-    font-weight: 500;
-    background-color: var(--blue-light);
-}
-
 main .section-education .education-list {
     width: 100%;
     max-width: 25rem;
@@ -160,7 +149,122 @@ main .section-education .education-list .education-item #logo-unopar {
     width: 5rem;
 }
 
+main .section-projects {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 0rem 2rem 0rem;
+    background-color: var(--white);
+}
+
+main .section-projects .projects-list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 2rem 2rem 2rem;
+    max-width: 46rem;
+}
+
+main .section-projects .projects-list .projects-item {
+    margin: 0rem 0rem 2rem 0rem;
+}
+
+main .section-projects .projects-list .projects-item:last-of-type {
+    margin: 0rem 0rem 0rem 0rem;
+}
+
+main .section-areas {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 0rem 0rem 0rem;
+    background-color: var(--white);
+}
+
+main .section-areas .areas-list {
+    width: 100%;
+    max-width: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 4rem 2rem 4rem;
+    flex-wrap: wrap;
+}
+
+main .section-areas .areas-list .areas-item {
+    display: flex;
+    color: var(--blue-dark);
+    font-weight: 700;
+    padding: 0.25rem 0rem 0.25rem 0rem;
+}
+
+main .section-tecnologies {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 0rem 0rem 0rem;
+    background-color: var(--white);
+}
+
+main .section-tecnologies .tecnologies-list {
+    width: 100%;
+    max-width: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 4rem 2rem 4rem;
+    flex-wrap: wrap;
+}
+
+main .section-tecnologies .tecnologies-list .tecnologies-item {
+    display: flex;
+    color: var(--blue-dark);
+    font-weight: 700;
+    padding: 0.25rem 0rem 0.25rem 0rem;
+}
+
 .box-shadow {
     background-color: #00000030;
     box-shadow: 0rem 0rem 9rem #000000;
+}
+
+.project-image {
+    width: 100%;
+}
+
+.image-caption {
+    width: 100%;
+    padding: 1.25rem 0.75rem 0.75rem 0.75rem;
+    background-color: var(--blue-dark);
+}
+
+.disclaimer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0rem 2rem 0rem 2rem;
+}
+
+.disclaimer .disclaimer-symbol {
+    width: 10rem;
+    max-width: 60px;
+    display: flex;
+    margin: 0rem 1rem 0rem 0rem;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--blue-dark);
+}
+
+.disclaimer .disclaimer-symbol span {
+    font-size: 3rem;
+    text-align: center;
+    color: var(--white);
+}
+
+.disclaimer .disclaimer-text {
+    font-size: 0.8rem;
+    color: var(--blue-dark);
+    font-style: italic;
 }
